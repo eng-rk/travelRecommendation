@@ -1,0 +1,40 @@
+{
+  "beaches": [
+    {
+      "name": "Bora Bora Beach",
+      "imageUrl": "images/beach1.jpg",
+      "description": "Beautiful crystal-clear water and relaxing atmosphere."
+    },
+    {
+      "name": "Maldives Beach",
+      "imageUrl": "images/beach2.jpg",
+      "description": "Famous for white sand beaches and luxury resorts."
+    }
+  ],
+
+  "temples": [
+    {
+      "name": "Angkor Wat",
+      "imageUrl": "images/temple1.jpg",
+      "description": "Historic temple complex in Cambodia."
+    },
+    {
+      "name": "Golden Temple",
+      "imageUrl": "images/temple2.jpg",
+      "description": "Sacred Sikh temple located in India."
+    }
+  ],
+
+  "countries": [
+    {
+      "name": "Japan",
+      "imageUrl": "images/country1.jpg",
+      "description": "Known for technology, culture, and beautiful landscapes."
+    },
+    {
+      "name": "Switzerland",
+      "imageUrl": "images/country2.jpg",
+      "description": "Famous for mountains, lakes, and scenic beauty."
+    }
+  ]
+}
